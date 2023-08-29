@@ -1,0 +1,4 @@
+unacc -inaceitável
+acc - aceitável
+good- bom
+v-good - muito bom
